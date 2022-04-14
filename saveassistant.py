@@ -14,7 +14,7 @@ class ImageFetchResponse(Enum):
 
 class Curator:
     # Version number
-    VERSION = '1.0.0'
+    VERSION = '1.0.1'
 
     # User settings
     SETTINGS_FILENAME = './settings.json'
