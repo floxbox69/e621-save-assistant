@@ -48,7 +48,7 @@ class Curator:
 
     # The multiplier of the image height compared to the window height,
     # i.e. image_height = window_height * IMAGE_WINDOW_HEIGHT_MULTIPLIER (with minimum of MIN_IMAGE_HEIGHT)
-    IMAGE_WINDOW_HEIGHT_MULTIPLIER = 0.8
+    IMAGE_WINDOW_HEIGHT_MULTIPLIER = 0.65
 
     # Default window size (width, height)
     DEFAULT_WINDOW_SIZE = (1080, 800)
